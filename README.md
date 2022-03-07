@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naveed Usman aka SNUcoder, a  kid from India
 
-  who became a programmer after taking arduino serum.
+  who became a beginner programmer after taking arduino serum.
   
 - 👀 I’m interested in Python, C, CSS, HTML
 - 🌱 I’m currently learning CSS & HTML
