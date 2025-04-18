@@ -4,12 +4,8 @@
   
 - 👀 I’m interested in Python, C, CSS, HTML
 - 🌱 I’m currently learning CSS & HTML
-- 📫 You can Reach me in Discord (SNUcoder#7302)
-- And... you can get rickrolled by me anytime  in one of my repositry and now.... ;)
+- 📫 You can Reach me in Discord (K Robert Boppenheimer#7302)
 
-"Never Gonna give you up!"
-
-"Never Gonna let you down!"
 <!---
 SNUcoder/SNUcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
