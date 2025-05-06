@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Naveed Usman aka SNUcoder, a  kid from India
-
-  who became a beginner programmer after taking arduino serum.
+- 👋 Hi, I’m Naveed.
   
-- 👀 I’m interested in Python, C, CSS, HTML
-- 🌱 I’m currently learning CSS & HTML
-- 📫 You can Reach me in Discord (K Robert Boppenheimer#7302)
+- 👀 I’m interested in C, C++
+  
+- 🌱 I’m currently learning C & C++
+
+- 📫 You can reach me in Discord (K Robert Boppenheimer#7302)
 
 <!---
 SNUcoder/SNUcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
